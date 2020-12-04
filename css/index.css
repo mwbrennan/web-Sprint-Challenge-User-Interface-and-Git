@@ -207,5 +207,44 @@ header nav {
     background-color: dodgerblue;
 }
 
+.about-p{
+    border-bottom: 1px dashed black;
+    padding-bottom: 2%;
+    margin-bottom: 2%;
+}
 
+.four-boxes{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    /* border: 3px solid pink; */
+}
 
+.box-title{
+    margin-top: 4%;
+}
+
+button{
+    background-color: transparent;
+    border: 2px solid black;
+    border-radius: 8%;
+    margin-top: 4%;;
+    height:2rem;
+    width: 7rem;
+    font-family: 'Rubik', sans-serif;
+    color: black;
+}
+
+.strat-box{
+    width: 48%;
+    padding-bottom: 2%;
+    padding-top: 4%;
+    border-bottom: 1px dashed black;
+}
+
+.h-footer{
+    margin-top: 6%;
+}
+.p-footer{
+    padding-bottom: 4%;
+}
