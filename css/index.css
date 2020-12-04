@@ -156,6 +156,7 @@ header nav {
 }
 .logo{
     width: 20%;
+    /* border: 2px solid pink; */
 }
 .nav-links{
     width: 80%;
